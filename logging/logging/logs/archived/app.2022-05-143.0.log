@@ -1,0 +1,12 @@
+2022-05-23 13:04:07,162 INFO com.example.SpringLoggingApplication [main] Starting SpringLoggingApplication using Java 17.0.2 on INBLRGVE120W57S with PID 17112 (C:\Users\252008\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\logging\target\classes started by 252008 in C:\Users\252008\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\logging)
+2022-05-23 13:04:07,166 DEBUG com.example.SpringLoggingApplication [main] Running with Spring Boot v2.7.0, Spring v5.3.20
+2022-05-23 13:04:07,168 INFO com.example.SpringLoggingApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-05-23 13:04:09,489 INFO com.example.SpringLoggingApplication [main] Started SpringLoggingApplication in 2.917 seconds (JVM running for 4.675)
+2022-05-23 13:04:20,911 TRACE com.example.HomeController [http-nio-8080-exec-2] FATAL ERROR
+2022-05-23 13:04:21,055 TRACE com.example.HomeController [http-nio-8080-exec-1] FATAL ERROR
+2022-05-23 13:04:21,224 TRACE com.example.HomeController [http-nio-8080-exec-3] FATAL ERROR
+2022-05-23 13:04:21,477 TRACE com.example.HomeController [http-nio-8080-exec-4] FATAL ERROR
+2022-05-23 13:04:21,646 TRACE com.example.HomeController [http-nio-8080-exec-5] FATAL ERROR
+2022-05-23 13:04:21,838 TRACE com.example.HomeController [http-nio-8080-exec-6] FATAL ERROR
+2022-05-23 13:04:22,000 TRACE com.example.HomeController [http-nio-8080-exec-7] FATAL ERROR
+2022-05-23 13:04:22,162 TRACE com.example.HomeController [http-nio-8080-exec-9] FATAL ERROR
